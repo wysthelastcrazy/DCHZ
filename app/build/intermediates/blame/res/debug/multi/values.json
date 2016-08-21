@@ -1,0 +1,627 @@
+[
+    {
+        "outputFile": "E:\\myWork\\DCHZ\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 47,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 47,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 46,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 40,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 40,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 55,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 55,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 54,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 54,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 51,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 51,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 52,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 52,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 52,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 202,
+                        "endColumn": 53,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 46,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 46,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 47,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 47,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 57,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 55,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 42,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 205,
+                        "endColumn": 39,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 52,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 52,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 42,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 42,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 52,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 65,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 693,
+                        "endColumn": 62,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 56,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 56,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 59,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 636,
+                        "endColumn": 56,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 56,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 56,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 62,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 397,
+                        "endColumn": 59,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 67,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 457,
+                        "endColumn": 64,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 61,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 338,
+                        "endColumn": 58,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 57,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 228,
+                        "endColumn": 54,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 57,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 720,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endLine": 53,
+                    "endColumn": 9,
+                    "endOffset": 2749
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 1589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2754,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3183
+                },
+                "from": {
+                    "file": "E:\\myWork\\DCHZ\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 5,
+                        "startOffset": 1599,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2033
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+     <TextView 
+         android:id="@+id/text_header"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#5D5C4A"
+        android:background="#F3F4ED"
+        android:gravity="center"
+        android:textSize="20sp"
+        />
+<EditText 
+    android:layout_marginTop="12.5dp"
+    android:id="@+id/edit_search"
+    android:layout_width="300dp"
+    android:layout_height="30dp"
+    android:background="@drawable/round_rect_white_shape"
+    android:layout_marginLeft="12.5dp"
+    android:layout_below="@id/text_header"
+    android:hint="search"/>
+<TextView 
+    android:id="@+id/text_search"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:layout_marginLeft="6dp"
+    android:layout_toRightOf="@id/edit_search"
+    android:textColor="@color/tab_txt_color_blue"
+    android:textSize="16sp"
+    android:layout_below="@id/text_header"
+    android:text="搜索"/>
+<ListView 
+    android:id="@+id/listView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_below="@id/edit_search"
+    android:layout_marginTop="12.5dp"></ListView>
+</RelativeLayout>
